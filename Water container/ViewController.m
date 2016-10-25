@@ -55,6 +55,8 @@
     roundView.center = waterbig.center;
     [self.view addSubview:watersmall];
     
+    NSLog(@"%@",@"aaa");
+    
 }
 
 @end
